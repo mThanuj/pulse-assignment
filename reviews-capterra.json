@@ -1,0 +1,428 @@
+{
+  "reviews": [
+    {
+      "rating": {
+        "ease_of_use_rating": "5.0",
+        "customer_service_rating": "5.0",
+        "features_rating": "5.0",
+        "value_for_money_rating": "5.0"
+      },
+      "review": {
+        "overall_content": "Ease of inventory control from the ordering, receiving and dispensing process!",
+        "pros": "Receiving and Dispensing of inventory. I like that your entire order is on one line and you can receiving what came and hold on what didn't (if something was back ordered, which that happens alot!) I also appreciate being able to look up what was received and what is left in inventory at a glance!",
+        "cons": "So far everything is great. The customer support is also great. In the beginning I had a few questions, but my Sales Rep, was right there the entire time! (this isn't a con but I had to fill the spot :)"
+      },
+      "name": "Verified ReviewerVerified LinkedIn User",
+      "reviewer_job_title": "Practice Manager",
+      "reviewer_time_used_product": "Less than 6 months",
+      "date": "2018-05-28T18:30:00.000Z",
+      "vendor_response": "Hello, We appreciate the positive words about our software; we have worked hard to create a great inventory management system and it helps to hear that you find it easy to use.\nWe continue to focus on improving ArbiMed based on user feedback since our customers are important to us. Thanks for your business and taking the time to share your user experience.\nArbiMed Team"
+    },
+    {
+      "rating": {
+        "ease_of_use_rating": "5.0",
+        "customer_service_rating": "5.0",
+        "features_rating": "5.0",
+        "value_for_money_rating": "5.0"
+      },
+      "review": {
+        "pros": "Pulse is a great inventory system! Easy to use, intuitive, and user friendly. The platform is customizable to your specialist and the development team is phenomenal with taking customer feedback and incorporating it into the software! Definitely recommend!",
+        "cons": "Only downside to the system is they don't have many features for IVs."
+      },
+      "name": "Casey R.",
+      "reviewer_job_title": "Assistant Practice Administrator",
+      "reviewer_time_used_product": "1-2 years",
+      "date": "2025-02-17T18:30:00.000Z"
+    },
+    {
+      "rating": {
+        "ease_of_use_rating": "4.0",
+        "customer_service_rating": "3.0",
+        "features_rating": "3.0",
+        "value_for_money_rating": "3.0"
+      },
+      "review": {
+        "overall_content": "Recently changed from Arbimed to Pulse. Many of the features that made things simple seems to have been removed, like duplicating previous invoices from the patient view.",
+        "pros": "Easy to use, straight forward layout. Very little training time required.",
+        "cons": "Communication is difficult when you need assistance. Send in a case and never hear anything back. Changes made as \"updates\" seem to make tasks more time consuming and less efficient."
+      },
+      "name": "Lynda N.",
+      "reviewer_job_title": "Director of Patient Care",
+      "reviewer_time_used_product": "1-2 years",
+      "date": "2024-11-06T18:30:00.000Z",
+      "vendor_response": "Thank you for your feedback. We apologize for the communication issues and any inconvenience caused by our recent updates. We appreciate your input! You can contact us at support@elevateht.com anytime.\nWe look forward to making your experience with Pulse better."
+    },
+    {
+      "rating": {
+        "ease_of_use_rating": "5.0",
+        "customer_service_rating": "5.0",
+        "features_rating": "4.0",
+        "value_for_money_rating": "5.0"
+      },
+      "review": {
+        "overall_content": "Pulse is a great application for keeping track of inventory. It is simple to navigate and offers adding new patients a breeze. It has nice safety features such as a pop up message should the dosage given is different from the last. While simple to use, there are occasional glitches when inputting medications into the system and could work on making certain tasks more effective. For example, the safety feature mentioned above prompts a response with each medication being given. So if I am dispensing 4-200 mg Actemra, I have to type a response each time, even if the total dosage still adds up to 800 mg. For example, even if the previous dosage was 2- 400 mg Actemra. This process can be streamlined to be more efficient.",
+        "pros": "The interface is user friendly and the website is easy to navigate. I like how there is a quick option to switch between our different clinics on top.",
+        "cons": "Inputting inventory through the use of scanning or by manually typing the serial number comes with occasional glitches where the application needs to be restarted in order for it to work properly."
+      },
+      "name": "Bryan A.",
+      "reviewer_job_title": "Medical assistant",
+      "reviewer_time_used_product": "Less than 6 months",
+      "date": "2025-02-18T18:30:00.000Z"
+    },
+    {
+      "rating": {
+        "ease_of_use_rating": "5.0",
+        "customer_service_rating": "5.0",
+        "features_rating": "5.0",
+        "value_for_money_rating": "5.0"
+      },
+      "review": {
+        "overall_content": "The staff at pulse are very helpful and always available when needed. [sensitive content hidden] has been an asset to me teaching me how to get the most out of this inventory system so we can improve productivity with the least amount of product loss all of which increases company revenue. Customer service is excellent!",
+        "pros": "The system is user friendly easy to manage",
+        "cons": "sometimes the site would go down but that hasn't happened so far now that it's under new management"
+      },
+      "name": "Carolyn G.",
+      "reviewer_job_title": "Nurse Manager",
+      "reviewer_time_used_product": "2+ years",
+      "date": "2024-09-17T18:30:00.000Z"
+    },
+    {
+      "rating": {
+        "ease_of_use_rating": "5.0",
+        "customer_service_rating": "5.0",
+        "features_rating": "5.0",
+        "value_for_money_rating": "5.0"
+      },
+      "review": {
+        "pros": "Very easy to navigate the website while inputting information.",
+        "cons": "Sometimes the system freezes while in use."
+      },
+      "name": "Megan D.",
+      "reviewer_job_title": "Nurse",
+      "reviewer_time_used_product": "2+ years",
+      "date": "2024-09-26T18:30:00.000Z"
+    },
+    {
+      "rating": {
+        "ease_of_use_rating": "5.0",
+        "customer_service_rating": "5.0",
+        "features_rating": "4.0",
+        "value_for_money_rating": "5.0"
+      },
+      "review": {
+        "overall_content": "Pulse is user friendly and a great inventory program",
+        "pros": "Easy to use and very helpful with the inventory",
+        "cons": "When you enter a new patient and you hit save once, if you forget and hit save again and click yes in the next box it makes a double appt."
+      },
+      "name": "Valerie B.",
+      "reviewer_job_title": "PSR Supervisor",
+      "reviewer_time_used_product": "2+ years",
+      "date": "2024-09-17T18:30:00.000Z"
+    },
+    {
+      "rating": {
+        "ease_of_use_rating": "5.0",
+        "customer_service_rating": "5.0",
+        "features_rating": "4.0",
+        "value_for_money_rating": "5.0"
+      },
+      "review": {
+        "overall_content": "Pulse is a very good program overall and I think it could be a great addition to other medical offices.",
+        "pros": "The program Pulse is easy to use and efficient in helping our clinic become more organized when keeping track of inventory and medications. I think it is a great tool that other medical offices can use who tend to administer medications in their own clinics as well as helping to decrease staff/patient errors.",
+        "cons": "Pulse tends to lag and does not read the medication when we scan to add. It takes a couple tries between different browsers and having to clear the cache before the problem is resolved."
+      },
+      "name": "Sylvia S.",
+      "reviewer_job_title": "Medical Assistant",
+      "reviewer_time_used_product": "Less than 6 months",
+      "date": "2025-02-09T18:30:00.000Z",
+      "vendor_response": "Hello Sylvia! Thank you for your review!\nWe are grateful to hear that you have been having a great experience with Pulse! We apologize for the issues with scanner connectivity. We hope the scanners we recently sent to your clinic will greatly improve your performance. Please contact our support team if you have any issues."
+    },
+    {
+      "rating": {
+        "ease_of_use_rating": "5.0",
+        "customer_service_rating": "5.0",
+        "features_rating": "5.0",
+        "value_for_money_rating": "5.0"
+      },
+      "review": {
+        "overall_content": "it is a great experience to have been able to bring a new app in to office to track medication and billing",
+        "pros": "the function of scanning medication, it makes it easier for employees and pts.",
+        "cons": "you have to make sure your system is updated for it to work"
+      },
+      "name": "Drea V.",
+      "reviewer_job_title": "MA",
+      "reviewer_time_used_product": "Less than 6 months",
+      "date": "2025-02-17T18:30:00.000Z"
+    },
+    {
+      "rating": {
+        "ease_of_use_rating": "5.0",
+        "customer_service_rating": "5.0",
+        "features_rating": "5.0",
+        "value_for_money_rating": "5.0"
+      },
+      "review": {
+        "overall_content": "Pulse has been easy to use, and keep track of out going medication.",
+        "pros": "Pulse is a very good program, it is clear and easy to maneuver",
+        "cons": "Only issues I have had with pulse is, getting the scanner to connect."
+      },
+      "name": "Claudia G.",
+      "reviewer_job_title": "MA",
+      "reviewer_time_used_product": "Less than 6 months",
+      "date": "2025-02-09T18:30:00.000Z",
+      "vendor_response": "Hello Claudia! Thank you for your review!\nWe are grateful to hear that you have been having a great experience with Pulse! We apologize for the issues with scanner connectivity. We hope the scanners we recently sent to your clinic will greatly improve your performance. Please contact our support team if you have any issues."
+    },
+    {
+      "rating": {
+        "ease_of_use_rating": "5.0",
+        "features_rating": "5.0"
+      },
+      "review": {
+        "pros": "User friendly and very easy yo navigate.",
+        "cons": "Web would go down with hopes with the change it changes"
+      },
+      "name": "Jill V.",
+      "reviewer_job_title": "Office Administrator",
+      "reviewer_time_used_product": "2+ years",
+      "date": "2024-09-17T18:30:00.000Z"
+    },
+    {
+      "rating": {
+        "ease_of_use_rating": "5.0",
+        "customer_service_rating": "5.0",
+        "features_rating": "5.0",
+        "value_for_money_rating": "5.0"
+      },
+      "review": {
+        "overall_content": "I enjoy using Pulse. I never have any issues.",
+        "pros": "Pulse is very user friendly and easy to work with.",
+        "cons": "There is nothing i do not like about Pulse."
+      },
+      "name": "Brittney O.",
+      "reviewer_job_title": "Medical Assistant",
+      "reviewer_time_used_product": "6-12 months",
+      "date": "2024-09-18T18:30:00.000Z"
+    },
+    {
+      "rating": {
+        "ease_of_use_rating": "5.0",
+        "customer_service_rating": "5.0",
+        "features_rating": "5.0",
+        "value_for_money_rating": "5.0"
+      },
+      "review": {
+        "overall_content": "Knowledgeable , a very informative time",
+        "pros": "Efficiency and user friendly. At this time our office is looking for a quick system.",
+        "cons": "I think it is a slow process but I know it will reach greatly."
+      },
+      "name": "allyson D.",
+      "reviewer_job_title": "zumba instructor",
+      "reviewer_time_used_product": "Less than 6 months",
+      "date": "2024-09-18T18:30:00.000Z"
+    },
+    {
+      "rating": {
+        "ease_of_use_rating": "5.0",
+        "customer_service_rating": "4.0",
+        "features_rating": "5.0",
+        "value_for_money_rating": "4.0"
+      },
+      "review": {
+        "overall_content": "Implementation was streamlined without issues. Training has been informative.",
+        "pros": "Easily accessible from the web-based site.",
+        "cons": "The upload process when needing to update product details and UOM."
+      },
+      "name": "Janet C.",
+      "reviewer_job_title": "HIT Optimization Analyst",
+      "reviewer_time_used_product": "1-2 years",
+      "date": "2024-09-25T18:30:00.000Z"
+    },
+    {
+      "rating": {
+        "ease_of_use_rating": "3.0",
+        "customer_service_rating": "3.0",
+        "features_rating": "3.0",
+        "value_for_money_rating": "3.0"
+      },
+      "review": {
+        "pros": "I like how easy it is to use. System looks like a good option for us. We just implemented and are looking into how we can integrate with our EMR.",
+        "cons": "Our training was a little sporadic during implementation."
+      },
+      "name": "Amanda F.",
+      "reviewer_job_title": "Informatics Systems Manager",
+      "reviewer_time_used_product": "Less than 6 months",
+      "date": "2024-10-27T18:30:00.000Z"
+    },
+    {
+      "rating": {
+        "ease_of_use_rating": "4.0",
+        "customer_service_rating": "4.0",
+        "features_rating": "4.0",
+        "value_for_money_rating": "4.0"
+      },
+      "review": {
+        "overall_content": "I would describe my overall experience a good 7 out of 10",
+        "pros": "i like most about Pulse is the quality !",
+        "cons": "I don't have anything I do not like about Pulse"
+      },
+      "name": "Aaliyah P.",
+      "reviewer_job_title": "Receptionist",
+      "reviewer_time_used_product": "I used a free trial",
+      "date": "2024-09-17T18:30:00.000Z"
+    },
+    {
+      "rating": {
+        "ease_of_use_rating": "5.0",
+        "customer_service_rating": "5.0",
+        "features_rating": "5.0",
+        "value_for_money_rating": "5.0"
+      },
+      "review": {
+        "pros": "Integration, Training, and Easy of implementation",
+        "cons": "Length of time to get started and confusion with integration from McKesson"
+      },
+      "name": "Christina B.",
+      "reviewer_job_title": "Project Manager",
+      "reviewer_time_used_product": "Less than 6 months",
+      "date": "2023-08-21T18:30:00.000Z"
+    },
+    {
+      "rating": {
+        "ease_of_use_rating": "5.0",
+        "customer_service_rating": "5.0",
+        "features_rating": "5.0",
+        "value_for_money_rating": "5.0"
+      },
+      "review": {
+        "overall_content": "I have way more time to spend on patient care. We’ve saved thousands of dollars this year by using this software.",
+        "pros": "Easy to use. I know exactly what to order at all locations",
+        "cons": "I wish I would have started using it earlier. By using barcode scanning, this software makes it so much easier to track all of my products."
+      },
+      "name": "Kasey A.",
+      "reviewer_job_title": "Office manager",
+      "reviewer_time_used_product": "1-2 years",
+      "date": "2022-08-08T18:30:00.000Z"
+    },
+    {
+      "rating": {
+        "ease_of_use_rating": "4.0",
+        "customer_service_rating": "5.0",
+        "features_rating": "4.0",
+        "value_for_money_rating": "5.0"
+      },
+      "review": {
+        "overall_content": "Overall I really like the software. It has helped me understand the inventory in my office immensely.",
+        "pros": "I like how easy the software is to use and how it gives me the information I want. For me, the most important features were 1. ease of use for my staff because if it's not easy, they're not going to use it, and 2. giving me the information I need to make purchasing decisions quickly and accurately. This meets those criteria.",
+        "cons": "There's one spot in my business where we have a set of different items that can be used and purchased as a set or as individual items and so far there's no way to easily keep track of this inventory because the software can only identify a quantity of the same item as a set, not different items. This is the biggest thing I wish they would fix."
+      },
+      "name": "Beth Y.",
+      "reviewer_job_title": "Owner",
+      "reviewer_time_used_product": "1-2 years",
+      "date": "2019-02-14T18:30:00.000Z",
+      "vendor_response": "Warm Greetings Beth,\nThank you for taking the time to provide a great review. We are happy to hear that overall, you are pleased with the software. Our goal is to meet all of customers inventory management needs. With that said, thank you kindly for the improvement suggestion. \"set of different items that can be used and purchased as a set or as individual items and so far there's no way to easily keep track of this inventory because the software can only identify a quantity of the same item as a set, not different items.\" I've submitted the opportunity to our development team. Someone will be in touch with you as soon as we identify a resolution. Thank you for your business and we look forward to meeting all of your businesses inventory needs."
+    },
+    {
+      "rating": {
+        "ease_of_use_rating": "2.0",
+        "features_rating": "2.0"
+      },
+      "review": {
+        "overall_content": "I already filled all of these out and you sent me another request. don't have time to continue.",
+        "pros": "Nice to track what's purchased. Inventory list balances and transaction history are helpful.",
+        "cons": "All the refreshing needed, every time you make a change. Transaction history for the day would be extremely helpful if you could see the pt's name while seeing the history. I tried to print the Trans hx for the day and could not see the pt's name. I removed several columns to be able to print with pt's name and it ended up making columns stretch out rather than being able to view what I was trying to see"
+      },
+      "name": "beth P.",
+      "reviewer_job_title": "Supervisor and Rvl billing",
+      "reviewer_time_used_product": "6-12 months",
+      "date": "2019-02-28T18:30:00.000Z",
+      "vendor_response": "Hello Beth, Thank you for taking the time to post a review. I'm sorry you are experiencing difficulty with formatting the reports. I'd love to speak to you to see if I may assist with ease of use. If you have a moment, please give me a call directly 855-662-5252 ext 006 or you may reach me on email @ edyta@arbimed.com. I'd love to see if I can assist with any concerns so that we may earn a 5 star review from you next time. Thank you for using Arbimed Inventory Solutions."
+    },
+    {
+      "rating": {
+        "ease_of_use_rating": "5.0",
+        "customer_service_rating": "5.0",
+        "features_rating": "5.0",
+        "value_for_money_rating": "5.0"
+      },
+      "review": {
+        "overall_content": "We were looking for a simple to use inventory system with an easy interface that any of our staff members could use. ArbiMed fitted all our needs. That fact that it is flexible and does not have a steep learning curve has meant that even the least computer savvy staff member can easily scan items out. Entering new items and adjusting the count is also quick and simple to do. The support team have always quickly replied to emails and been very helpful. They are always pleasant and willing to answer any questions that we have had.",
+        "pros": "The software is used by multiple people in our clinic. The system is easy to navigate and does not take long to learn. It is flexible and we have been able to create our own custom items with no difficulty. As we are out of the USA we do not use all the features that are offered, so being able to tweak it to fit our needs has been invaluable.",
+        "cons": "I have no complaints, the system works very well for us."
+      },
+      "name": "Carole K.",
+      "reviewer_job_title": "Accounting Supervisor",
+      "reviewer_time_used_product": "6-12 months",
+      "date": "2019-02-14T18:30:00.000Z",
+      "vendor_response": "Carole, We are thrilled you are enjoying our inventory management software. We appreciate your business and value your opinion. Thank you kindly for taking the time to write such a wonderful review, we appreciate it ! We look forward to a long business relationship and helping your business stay efficient and your inventory accurate."
+    },
+    {
+      "rating": {
+        "ease_of_use_rating": "5.0",
+        "customer_service_rating": "5.0",
+        "features_rating": "4.0",
+        "value_for_money_rating": "5.0"
+      },
+      "review": {
+        "overall_content": "We have been using this software for a little over 2 years. There have been major improvements over that time and the Arbimed team has been very receptive to our needs. This software has become a key part of our warehouse and inventory management process!",
+        "pros": "This software is relatively easy to use and to onboard for new teams. It has become an integral part of our processes. The dev team and [SENSITIVE CONTENT HIDDEN] are WONDERFUL!",
+        "cons": "Overall, I would like more flexibility in reporting and the data that can be exported - but the team has made huge strides over the last year and I know that more improvements are coming!"
+      },
+      "name": "Lisa K.",
+      "reviewer_job_title": "Financial Operations",
+      "reviewer_time_used_product": "2+ years",
+      "date": "2020-09-15T18:30:00.000Z"
+    },
+    {
+      "rating": {
+        "ease_of_use_rating": "2.0",
+        "features_rating": "2.0"
+      },
+      "review": {
+        "overall_content": "Inventory has been much easier. and I love the fact that at the end of the day I can see how many of what products I have sold. So yes I am happy with the program it just needs to be alittle bit more user friendly.",
+        "pros": "That I can run reports more efficiently.",
+        "cons": "The most important for me is to NOT have to go out of the stock to add a new patient after you have entered all the info in, then come to find out the patient has not been added yet. You should be able to hit the add patient right from the stock/dispense screen right then and there. Instead we have to go to add the patient first, then go back and scan all the items again and dispense."
+      },
+      "name": "Valerie B.",
+      "reviewer_job_title": "PSR Supervisor",
+      "reviewer_time_used_product": "Less than 6 months",
+      "date": "2019-02-14T18:30:00.000Z",
+      "vendor_response": "Hello Valerie, Thank you kindly for taking the time to provide a review. We value your business and your opinion of our product. We are consistently striving to improve our functionalities to better serve our customers. As such, we very much appreciate your improvement suggestion. \"NOT have to go out of the stock to add a new patient after you have entered all the info in, then come to find out the patient has not been added yet. You should be able to hit the add patient right from the stock/dispense screen right then and there. Instead we have to go to add the patient first, then go back and scan all the items again and dispense.\" I have submitted your improvement suggestion to our development team and someone will be in touch as soon as we have a resolution. Thank you again !"
+    },
+    {
+      "rating": {
+        "ease_of_use_rating": "5.0",
+        "customer_service_rating": "5.0",
+        "features_rating": "5.0",
+        "value_for_money_rating": "5.0"
+      },
+      "review": {
+        "overall_content": "Solving the guessing work of how much of everything we use and when to restock.",
+        "pros": "User friendly, simple to set up, practical, can be easily customized to a specific location or employee.",
+        "cons": "tough one, but I think having the scanner attached to the computer is my least favorite especially when you have a lot of items to scan. So maybe having a wireless one would be much more sufficient."
+      },
+      "name": "Julie M.",
+      "reviewer_job_title": "operations director",
+      "reviewer_time_used_product": "6-12 months",
+      "date": "2019-02-21T18:30:00.000Z",
+      "vendor_response": "Hi Julie, Thank you kindly for the wonderful review. We appreciate your feedback. In regards to the scanner, our system is compatible with several different units. I spoke with the developers and they were confident that the scanner provided at no-charge should be wireless with bluetooth capabilities. Please try to activate the bluetooth capability on your computer and unplug the scanner from the charging cord, it should work. If that doesn't work, you are able to purchase any compatible scanner to make your operation more efficient.\nWe don't sell them but there are several options available online. Feel free to give our customer service number a call if you have any issues. Toll Free @ 1-855-662-5252\nThank you kindly for using Arbimed!"
+    },
+    {
+      "rating": {
+        "ease_of_use_rating": "3.0",
+        "customer_service_rating": "3.0",
+        "features_rating": "4.0",
+        "value_for_money_rating": "3.0"
+      },
+      "review": {
+        "overall_content": "I still have not got the system up and running, currently having a problem with the scanner and my I-pad. I have called and e-mailed to get help and not received any help yet . If this software really does what I was told it would it will be a great fit, but I haven’t seen great things yet.",
+        "pros": "The report options. I have not been able to use the system entirely yet.",
+        "cons": "The bar scanner doesn’t have the capability of scanning all UPC codes. It doesn’t always recognize the codes that are put in, but I find the item in the inventory list and the code is correct. I have a hard time reaching any customer support."
+      },
+      "name": "Tia T.",
+      "reviewer_job_title": "CMA Lead",
+      "reviewer_time_used_product": "6-12 months",
+      "date": "2019-02-14T18:30:00.000Z",
+      "vendor_response": "Tia, Thank you for taking the time to post a review and provide us with your valuable feedback. I'm sorry you are having a difficult time reaching our customer support team and experiencing issues with scanning. We strive to provide our customers with exceptional service, as such, I have escalated your issue to our development team and advised management of your challenges with support. Someone will be in touch to discuss a resolution. Thank you for your business and opportunity to improve your experience."
+    }
+  ]
+}
