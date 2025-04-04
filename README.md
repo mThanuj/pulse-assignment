@@ -13,6 +13,7 @@ This project is a command-line interface (CLI) tool that scrapes reviews from we
 
 - [Node.js](https://nodejs.org/)
 - [npm](https://www.npmjs.com/)
+- [Scrape.do](https://scrape.do/) API Token
 
 ## Installation
 
